@@ -10,6 +10,6 @@
 
 Get an answer for yourself... 
 
-[![Badget not found](https://master-glider-mature.ngrok-free.app/answers-book/)](https://github.com/Zhongheng-Cheng/)
+[![Badget not found](https://answers-book.zhonghengcc.cc/)](https://github.com/Zhongheng-Cheng/)
 
 
