@@ -1,0 +1,6 @@
+services:
+  answers-book:
+    build: .
+    container_name: answers-book
+    ports:
+      - "8001:8001"
