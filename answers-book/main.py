@@ -4,7 +4,7 @@ import requests
 app = Flask(__name__)
 
 def getBadge():
-    url_answer_book = 'https://answerbook.david888.com/?lang=en'
+    url_answer_book = 'https://answerbook.david888.com/answers?lang=en'
     response = requests.get(url_answer_book)
     data = response.json()
     answer_raw = data['answer']
