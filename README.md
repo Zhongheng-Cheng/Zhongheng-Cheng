@@ -10,5 +10,5 @@
 
 Get an answer for yourself... 
 
-[![Book of Answers](https://book-of-answers.zclab.win/)](https://github.com/Zhongheng-Cheng/)
+[![Badge not found](https://book-of-answers.zclab.win/)](https://github.com/Zhongheng-Cheng/)
 
